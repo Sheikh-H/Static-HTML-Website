@@ -1,4 +1,4 @@
-<h1 align="center">☕Coffee Shop</h1>
+<h1 align="center">☕ Static HTML Website</h1>
 
 <p align="center">
   <b>A visually engaging static website created using pure HTML and CSS, inspired by Ethiopia’s rich coffee culture.</b><br>
@@ -10,7 +10,7 @@
 <h2>🌍 Project Overview</h2>
 
 <p>
-<b>Ethiopia's Coffee Shop</b> is a fully responsive, multi-page static website designed to highlight the vibrant coffee heritage of Ethiopia.
+<b>Static HTML Website</b> is a fully responsive, multi-page static website designed to highlight the vibrant coffee heritage of Ethiopia.
 This project demonstrates strong skills in layout design, semantic HTML, CSS styling, and visual structure — without the use of JavaScript or frameworks.
 </p>
 
@@ -34,7 +34,7 @@ This project demonstrates strong skills in layout design, semantic HTML, CSS sty
 <h2>🧩 Folder Structure</h2>
 
 <pre>
-EthiopiasCoffeeShop/
+StaticHTMLWebsite/
 │
 ├── index.html              # Homepage
 ├── drinks.html             # Drinks page
@@ -52,7 +52,7 @@ EthiopiasCoffeeShop/
 │   ├── location.png
 │   ├── favicon.ico
 │   └── ...
-├── LICENCE                 # MIT LICENCE
+├── LICENCE                 # MIT Licence
 └── README.md               # Project documentation
 </pre>
 
@@ -62,7 +62,7 @@ EthiopiasCoffeeShop/
 
 <p>
   <b>View Site:</b>
-👉 <b><a href="https://sheikh-h.github.io/Coffee-Shop-Website/" target="_blank">https://sheikh-h.github.io/Coffee-Shop-Website/</a></b>
+👉 <b><a href="https://sheikh-h.github.io/StaticHTMLWebsite/" target="_blank">https://sheikh-h.github.io/StaticHTMLWebsite/</a></b>
 </p>
 
 ---
@@ -71,10 +71,10 @@ EthiopiasCoffeeShop/
 
 <ol>
   <li>Download or clone this repository:</li>
-  <pre>git clone https://github.com/Sheikh-H/Coffee-Shop-Website.git</pre>
+  <pre>git clone https://github.com/Sheikh-H/StaticHTMLWebsite.git</pre>
   
   <li>Open the project folder:</li>
-  <pre>cd Coffee-Shop-Website</pre>
+  <pre>cd StaticHTMLWebsite</pre>
 
   <li>Double-click <code>index.html</code> to open it in your browser.</li>
 </ol>
@@ -87,7 +87,7 @@ EthiopiasCoffeeShop/
   <li>HTML5 semantics and page structure</li>
   <li>CSS3 styling, responsive layouts, and visual hierarchy</li>
   <li>Use of external icon libraries (<code>Boxicons</code>)</li>
-  <li>Organized project folder management</li>
+  <li>Organised project folder management</li>
   <li>Accessibility and readability considerations</li>
 </ul>
 
@@ -96,7 +96,7 @@ EthiopiasCoffeeShop/
 <h2>📸 Visual Preview</h2>
 
 <p align="center">
-  <img src="Media/Preview.png" alt="Ethiopia's Coffee Shop Preview" width="600px" height="700px"><br>
+  <img src="Media/Preview.png" alt="Static HTML Website Preview" width="600px" height="700px"><br>
   <i>Homepage showcase — simple, elegant, and culturally themed.</i>
 </p>
 
@@ -150,6 +150,5 @@ SOFTWARE.
 </div>
 
 ---
-
 
 <h2 align="center">⭐ If you like this project, give it a star on GitHub!</h2>
