@@ -1,4 +1,4 @@
-<h1 align="center">☕ Ethiopia's Coffee Shop</h1>
+<h1 align="center">☕Coffee Shop</h1>
 
 <p align="center">
   <b>A visually engaging static website created using pure HTML and CSS, inspired by Ethiopia’s rich coffee culture.</b><br>
@@ -62,7 +62,7 @@ EthiopiasCoffeeShop/
 
 <p>
   <b>View Site:</b>
-👉 <b><a href="https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/" target="_blank">https://sheikh-h.github.io/CodeNation-Ethiopian-Coffee/</a></b>
+👉 <b><a href="https://sheikh-h.github.io/Coffee-Shop-Website/" target="_blank">https://sheikh-h.github.io/Coffee-Shop-Website/</a></b>
 </p>
 
 ---
@@ -71,10 +71,10 @@ EthiopiasCoffeeShop/
 
 <ol>
   <li>Download or clone this repository:</li>
-  <pre>git clone https://github.com/Sheikh-H/EthiopiasCoffeeShop.git</pre>
+  <pre>git clone https://github.com/Sheikh-H/Coffee-Shop-Website.git</pre>
   
   <li>Open the project folder:</li>
-  <pre>cd EthiopiasCoffeeShop</pre>
+  <pre>cd Coffee-Shop-Website</pre>
 
   <li>Double-click <code>index.html</code> to open it in your browser.</li>
 </ol>
